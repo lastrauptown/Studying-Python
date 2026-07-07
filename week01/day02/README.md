@@ -1,0 +1,3 @@
+For This day 02 i learned about datatypes concept it really matters as a developer to understand this basic concepts we call it on other term as a Fundamentals. We need to understand this typecasting also it will make our coding experience so much easy because you can convert any datatypes into one another like str to int, int to str, str to bool, bool to str, int to bool, bool to int, float to str, str to float, float to int, int to float. 
+Also the important here is i know the some parts of the basic If else statement or conditions. Also the Input typetext it so fun and easy at Python.
+I hope this programming Languange is the first one that i master rather then PHP. I love Python.
